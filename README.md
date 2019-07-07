@@ -1,5 +1,5 @@
-# myvueproject-0707
-회원관리 구현 프로젝트
+# VueProjectHJ
+회원관리 구현 프로젝트 - 하현지
 ### 사용기술
 * backend
 spring boot, JPA
