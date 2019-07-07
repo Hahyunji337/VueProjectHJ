@@ -1,11 +1,11 @@
 # VueProjectHJ
 회원관리 구현 프로젝트 - 하현지
 ### 사용기술
-* backend
+* backend : 
 spring boot, JPA
-* frontend
+* frontend : 
 Vue.js
-* DV
+* DB :
 H2
 ### 회원가입
 이메일 중복체크 후 가입
